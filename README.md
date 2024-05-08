@@ -1,0 +1,2 @@
+# Primes
+Primzahl generator C#
