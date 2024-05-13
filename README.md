@@ -1,2 +1,2 @@
 # Primes
-Primzahl generator C#
+Primzahl generator Python
